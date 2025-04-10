@@ -1,0 +1,1 @@
+# intellisqr-full-stack-assignment
